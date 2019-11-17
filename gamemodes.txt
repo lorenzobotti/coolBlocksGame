@@ -1,0 +1,4 @@
+0: normale
+1: flappy bird mode
+2: the floor is lava
+3: gliding
